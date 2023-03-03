@@ -1,0 +1,33 @@
+
+body {font-family: cursive;
+   
+}
+
+header, section {
+    width: 960px;
+margin: 0 auto ;
+}
+
+header { 
+    display: flex;
+    background-color: brown;
+    color:white;
+}
+
+ul {
+    list-style-type:none;
+}
+
+section {
+    display: flex;
+}
+
+article {
+    width: 60%;
+}
+
+img {
+    width: 150px;
+    height: 150px;
+    margin-right: 16px;
+}
